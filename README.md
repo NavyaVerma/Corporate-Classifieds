@@ -11,13 +11,18 @@
 <br>    (Since the database used is H2 - Embedded, the database scripts will execute automatically once the Microservices are started.)
 3. Run the Angular application, by giving the command ``ng serve`` in Terminal or Command Prompt.
 
-## To check REST API for each Microservice:
+## To check REST API for each Microservice on Swagger:
 
-- **auth** - localhost:8080/authapp/swagger-ui.html
-- **points** - localhost:8090/points/swagger-ui.html
-- **employee** - localhost:8070/swagger-ui.html
-- **offer** - localhost:8000/swagger-ui.html
-- **classified portal** - localhost:4200
+- **auth** - http://localhost:8080/authapp/swagger-ui.html
+- **employee** - http://localhost:8070/swagger-ui.html
+- **offer** - http://localhost:8000/swagger-ui.html
+- **points** - http://localhost:8090/points/swagger-ui.html
+
+## To check the database schema and tables on H2 console:
+
+- **auth** - http://localhost:8080/authapp/h2
+- **employee** - http://localhost:8070/h2
+- **offer** - http://localhost:8000/h2
 
 <br><hr>
 Full Presentation: https://drive.google.com/file/d/1kAq-GylpQkaeMjc6yLuggHjouvOjh6Hd/view?usp=sharing
