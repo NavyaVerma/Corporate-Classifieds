@@ -6,9 +6,10 @@
 
 ## To run the application:
 
-1. Install all the required tools, frameworks and dependencies.
+1. Install all the required tools, frameworks and dependencies - Java JDK, Eclipse EE or Spring Tools Suite, Maven, H2 Console, NodeJS, NPM, Angular, Lombok, Docker.
 2. Run all the microservices, by clicking *Run As -> Java Application* on the files contaning *@SpringBootApplication* annotations.
-3. Run the Angular application, by the command ``ng serve`` in Terminal or Command Prompt.
+    (Since the database used is H2 (Embedded), the database scripts will execute automatically once the Microservices are started.)
+3. Run the Angular application, by giving the command ``ng serve`` in Terminal or Command Prompt.
 
 ## To check REST API for each Microservice:
 
