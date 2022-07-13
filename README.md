@@ -18,7 +18,8 @@
 - **employee** - localhost:8070/swagger-ui.html
 - **offer** - localhost:8000/swagger-ui.html
 - **classified portal** - localhost:4200
-<br>
+<br><hr>
+Presentation Link: https://drive.google.com/file/d/1kAq-GylpQkaeMjc6yLuggHjouvOjh6Hd/view?usp=sharing
 
 ---
 
