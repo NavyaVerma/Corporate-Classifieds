@@ -24,9 +24,6 @@
 - **employee** - http://localhost:8070/h2
 - **offer** - http://localhost:8000/h2
 
-<br><hr>
-Full Presentation: https://drive.google.com/file/d/1kAq-GylpQkaeMjc6yLuggHjouvOjh6Hd/view?usp=sharing
-
 ---
 <br>
 
